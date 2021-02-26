@@ -1,3 +1,5 @@
+//Not finish
+
 let currentFloor = ""
 let targetFloor = ""
 
